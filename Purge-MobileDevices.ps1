@@ -1,3 +1,8 @@
+# Copyright (c) 2021 Tim Gerundt. All rights reserved.
+#
+# This work is licensed under the terms of the MIT license.
+# For a copy, see <https://opensource.org/licenses/MIT>.
+
 [CmdletBinding()]
 Param(
 	[Parameter(Mandatory=$false)]
